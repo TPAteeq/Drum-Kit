@@ -11,6 +11,7 @@ The purpose of taking this challenge is to understand the fundamentals of JavaSc
 
 
 
+![sc](https://user-images.githubusercontent.com/88542309/164970038-76f20158-da82-4355-aade-f10928827a53.png)
 
 
 
